@@ -1,6 +1,6 @@
 # Ghost Package Manager
 
-Ghost is a lightweight package manager designed for Arch Linux users. It allows you to fetch and install packages effortlessly while also offering compatibility with other package managers like `yay` and `apt` for missing dependencies.
+Ghost is a lightweight package manager designed for Debian and Arch Linux users. It allows you to fetch and install packages effortlessly while also offering compatibility with other package managers like `yay` and `apt` for missing dependencies.
 
 ---
 
